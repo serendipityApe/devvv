@@ -1,6 +1,14 @@
 {
-  "name": "root",
+  "name": "devvv",
+  "version": "1.0.0",
   "private": true,
+  "author": "wang", 
+  "description": "common toolkit", 
+  "keywords": ["dev"], 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serendipityApe/devvv"
+  },
   "workspaces": [
     "packages/*"
   ],
